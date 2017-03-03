@@ -70,7 +70,7 @@
 					delay: 500,
 					hideOnClick: true,
 					hideOnSwipe: true,
-					resetScroll: true,
+					resetScroll: false,
 					resetForms: true,
 					side: 'right',
 					target: $body,
